@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="my">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sai Mobile VIP Program</title>
+    <style>
+        body {
+            background: #121212; /* Dark background */
+            color: #f0f0f0;
+            font-family: monospace;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            background: #1e1e1e; /* Dark container */
+            margin: auto;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+            white-space: pre-wrap;
+            font-size: 15px;
+            line-height: 1.6;
+        }
+        .title {
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 20px;
+            font-size: 22px;
+            color: #ffcc00; /* Highlighted title */
+        }
+        .section-title {
+            color: #00ff99;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .vip-level {
+            color: #ff9900;
+            font-weight: bold;
+        }
+        .contact {
+            margin-top: 20px;
+            font-weight: bold;
+            color: #00ccff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">Sai Mobile VIP Program</div>
+
+💚 Sai Mobile မှာ နွေးထွေစွာ ကြိုဆိုပါတယ်ဗျ 💚
+
+Sai Mobile ဖုန်းဆိုင်လေးကို လာရောက်အားပေးဝယ်ယူ ကြသူ Customer မောင်နှမများအားလုံး께
+အထူးကျေးဇူးတင်ရှိပါတယ်ဗျ။
+
+Sai Mobile မှာ မိမိတိုကို ယုံကြည်အားပေးထားသော Customer မောင်နှမများအတွက်
+အထူးအရေးပါသော <span class="vip-level">VIP Member Card Program</span> ကို စတင်မိတ်ဆက်ပေးလိုပါသည်။
+
+==============================
+<span class="section-title">⭐️ VIP Member Card အမျိုးအစားများ</span>
+==============================
+1. Silver VIP  
+2. Gold VIP  
+3. Diamond VIP  
+
+ဝယ်ယူအားပေးသည့် အကြိမ်အရေအတွက်အလိုက် VIP Member Card များကို
+အဆင့်လိုက် ချီးမြှင့်ပေးသွားပါမည်။
+
+==============================
+<span class="section-title">⭐️ VIP Member Benefits</span>
+==============================
+
+1) <span class="vip-level">Silver VIP Member</span>  
+   - ပြန်အမ်းငွေ 10,000 ကျပ်  
+   - Gold VIP Member Card ကို အဆင့်မြှင့်ပေးသွားပမည်
+
+2) <span class="vip-level">Gold VIP Member</span>  
+   - ပြန်အမ်းငွေ 15,000 ကျပ်  
+   - Diamond VIP Member Card ကို အဆင့်မြှင့်ပေးသွားပါမည်
+
+3) <span class="vip-level">Diamond VIP Member</span>  
+   - ပြန်အမ်းငွေ 20,000 ကျပ်  
+   - SAI VVIP Member Card အမြဲတမ်း အကျိုးခံစားခွင့် ရရှိသွားသူ
+
+4) VIP Member တိုအတွက် အောက်ပါဝန်ဆောင်မှုများကို အခမဲ့
+   - Facebook / Viber / TikTok / Software Application ပေါ်က အခက်အခဲများကို အခမဲ့ကူညီပေးသွားမှာ ဖြစ်ပါတယ်ဗျ 
+
+5) Service ပြုပြင်ခြင်းအပိုင်း
+   - စျေးနှုန်းသက်သာအထူးအခွင့်ရေးများရရှိမည်ဖြစ်၍
+   - VIP Customer များအတွက် သီးသန့် ကံစမ်းမဲများ ပြုလုပ်ပေးသွားမှာ ဖြစ်ပါတယ်ဗျ
+
+==============================
+📞 <span class="contact">ဆက်သွယ်ရန်: 09777850786 / 09786200608</span>
+==============================
+
+Sai Mobile ကို ယုံကြည်အားပေးမှုအတွက် အထူးကျေးဇူးတင်ရှိပါတယ်ဗျ
+
+    </div>
+</body>
+</html>
